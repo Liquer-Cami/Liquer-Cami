@@ -2,8 +2,6 @@
 <li>🙆‍♀️ Atualmente buscando uma vaga de trabalho Treinee Front-End!;<br>
 <li>📚 Estudando e aprimorando hard skills Full-Stack ( Java☕);<br>
   <br>
-<a href="https://github.com/Liquer-Cami/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Liquer-Cami&theme=cobalt" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Liquer-Cami&layout=compact&langs_count=8&card_width=320&theme=cobalt" />
