@@ -3,7 +3,14 @@
 <li>📚 Estudando e aprimorando hard skills Full-Stack ( Java☕);<br>
   <br>
 </a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Liquer-Cami&layout=compact&langs_count=8&card_width=320&theme=cobalt" />
+ <div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
+</div>
 </a>
 
 <br>
