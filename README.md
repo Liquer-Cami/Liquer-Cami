@@ -1,5 +1,5 @@
 ## Olá, meu nome é Camila Liquer!💗
-<li>🙆‍♀️ Atualmente buscando uma vaga de trabalho Treinee ou estágio!;<br>
+<li>🙆‍♀️ Atualmente buscando uma vaga de trabalho junior!<br>
 <li>📚 Estudando e aprimorando hard skills Full-Stack (Java, Python);<br>
   <br>
 </a>
